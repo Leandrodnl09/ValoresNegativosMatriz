@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\bin\Debug\net6.0\ValoresNegativosMatriz.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\bin\Debug\net6.0\ValoresNegativosMatriz.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\bin\Debug\net6.0\ValoresNegativosMatriz.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\bin\Debug\net6.0\ValoresNegativosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\bin\Debug\net6.0\ValoresNegativosMatriz.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\refint\ValoresNegativosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ValoresNegativosMatriz.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValoresNegativosMatriz\obj\Debug\net6.0\ref\ValoresNegativosMatriz.dll
